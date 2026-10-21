@@ -1,1 +1,1 @@
-name: Build FS Bazaar APK, on: workflow_dispatch, push, branches: -main, jobs:, build:, runs-on: ubuntu-latest, steps:, Checkout code, Check project files, Stop if Gradle wrapper is missing,
+name: FS Bazaar Build Check، پھر on: workflow_dispatch, push, branches: - main, jobs:، اور آگے steps
